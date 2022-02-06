@@ -1,0 +1,17 @@
+.folder,.file{
+    display: flex;
+    align-items: center;
+
+}
+.folder img{
+    height: 22px;
+    aspect-ratio: 1/1;
+}
+.folder .down {
+    transform: rotate(90deg); 
+}
+.file img{
+    height: 22px;
+    aspect-ratio: 1/1;
+}
+
